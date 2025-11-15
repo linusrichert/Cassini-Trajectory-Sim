@@ -5,8 +5,8 @@
 
 This repository contains my W-Seminar (scientific research seminar) project for Physics at Humboldt-Gymnasium Vaterstetten, Germany. It is a numerical simulation of the Cassini-Huygens spacecraft's interplanetary trajectory and its gravity-assist maneuvers using the Runge-Kutta integration method and NASA's SPICE toolkit. I hope you find it interesting and useful - and that you have a good translation software for the German tech report :-)
 
-![Cassini Trajectory](W-Arbeit/Abbildungen/mission_overview_full.png)
-![Cassini Trajectory](W-Arbeit/Abbildungen/2-venus-GA.png)
+![Cassini Trajectory](Simulation_Results/mission_overview_full.png)
+![Cassini Trajectory](Simulation_Results/2-venus-GA.png)
 
 ## Abstract
 
